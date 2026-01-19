@@ -13,6 +13,7 @@ I am a Data Science and Artificial Intelligence enthusiast with a strong academi
 My experience includes working on predictive analytics, natural language processing, computer vision, and federated learning systems, with a focus on scalability, performance, and real-world applicability. I have completed multiple industry-aligned projects and internships, where I applied Python, SQL, and modern machine learning frameworks to solve business and healthcare-related problems.
 
 I am particularly interested in AI-powered decision systems, model optimization, and end-to-end ML workflows, from data preprocessing and feature engineering to evaluation and deployment. With a strong problem-solving mindset and collaborative approach, I aim to contribute to impactful data science initiatives while continuously expanding my technical expertise.
+
 ---
 
 ## 📊 Technical Expertise
