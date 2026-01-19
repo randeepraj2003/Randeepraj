@@ -8,11 +8,11 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Data Science professional** with strong foundations in **Machine Learning, Deep Learning, NLP, and Computer Vision**.  
-I focus on building **scalable, data-driven models** and translating complex data into actionable insights.
+I am a Data Science and Artificial Intelligence enthusiast with a strong academic background in Computer Science (Data Science specialization) and hands-on experience across machine learning, deep learning, and applied analytics. I specialize in building data-driven models that transform raw data into meaningful insights and intelligent solutions.
 
-My interests lie at the intersection of **AI research and applied machine learning**, with hands-on experience across academic and industry-style projects.
+My experience includes working on predictive analytics, natural language processing, computer vision, and federated learning systems, with a focus on scalability, performance, and real-world applicability. I have completed multiple industry-aligned projects and internships, where I applied Python, SQL, and modern machine learning frameworks to solve business and healthcare-related problems.
 
+I am particularly interested in AI-powered decision systems, model optimization, and end-to-end ML workflows, from data preprocessing and feature engineering to evaluation and deployment. With a strong problem-solving mindset and collaborative approach, I aim to contribute to impactful data science initiatives while continuously expanding my technical expertise.
 ---
 
 ## 📊 Technical Expertise
