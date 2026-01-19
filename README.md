@@ -1,4 +1,4 @@
-<h1 align="center">Randeep Raj</h1>
+<h1 align="center">Randeep Raj K</h1>
 <h3 align="center">Data Science | Machine Learning & AI </h3>
 
 <p align="center">
