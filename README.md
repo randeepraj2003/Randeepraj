@@ -15,7 +15,7 @@ My interests lie at the intersection of **AI research and applied machine learni
 
 ---
 
-##  Technical Expertise
+## 📊 Technical Expertise
 
 **Programming & Tools**
 - Python, SQL  
@@ -36,17 +36,6 @@ My interests lie at the intersection of **AI research and applied machine learni
 - Exploratory Data Analysis (EDA)  
 - Model Evaluation & Validation  
 - Data Visualization  
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Randeepraj2003&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randeepraj2003&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
