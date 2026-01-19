@@ -61,6 +61,3 @@ My interests lie at the intersection of **AI research and applied machine learni
 
 ---
 
-<p align="center">
-  <em>Focused on continuous learning and building impactful AI systems.</em>
-</p>
